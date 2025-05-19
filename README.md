@@ -7,7 +7,7 @@ A lightweight and user-friendly desktop application built with Python and Tkinte
 
 ## ✅ Features
 
-- 🔐 **Backup** single files or entire folders (including subfolders & hidden files)
+- 🔐 **Backup** single files or entire folders (including subfolders & hidden files) 
 - 📦 **Compress** backups into `.zip` format
 - ♻️ **Restore** content from any ZIP file
 - 🕵️ **Log** backup and recovery activity with timestamps
