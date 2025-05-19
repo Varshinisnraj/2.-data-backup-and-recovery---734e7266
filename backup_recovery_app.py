@@ -39,7 +39,7 @@ def backup_data():
                 zipf.write(path, arcname=base_name)
 
         log_action("Backup", path, zip_path)
-        messagebox.showinfo("Backup Successful", f"Backup created:\n{zip_path}")
+        messagebox.showinfo("Backup Success", f"Backup created:\n{zip_path}")
     except Exception as e:
         messagebox.showerror("Backup Error", str(e))
 
